@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\services\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\services\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\filterproperties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\filterproperties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\filterproperties.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\filterproperties.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\editproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\editproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\editproperty.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\editproperty.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\createproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\createproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|c:\\users\\guilherme.pirozi\\documents\\codigo_dr4-tp3\\tp3_csharp2\\citybreaks\\pages\\createproperty.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD91B0B-F532-4CF4-BD2C-FCE618FA4023}|CityBreaks\\CityBreaks.csproj|solutionrelative:citybreaks\\pages\\createproperty.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Services\\PropertyService.cs",
+              "RelativeDocumentMoniker": "CityBreaks\\Services\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Services\\PropertyService.cs",
+              "RelativeToolTip": "CityBreaks\\Services\\PropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:51:16.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Services\\ICityService.cs",
+              "RelativeDocumentMoniker": "CityBreaks\\Services\\ICityService.cs",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Services\\ICityService.cs",
+              "RelativeToolTip": "CityBreaks\\Services\\ICityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:51:14.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "CityBreaks\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:51:06.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "CityBreaks\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T18:51:04.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CityBreaks\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:51:00.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CityBreaks\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T18:50:57.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilterProperties.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\FilterProperties.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\FilterProperties.cshtml.cs",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\FilterProperties.cshtml.cs",
+              "RelativeToolTip": "CityBreaks\\Pages\\FilterProperties.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:50:50.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilterProperties.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\FilterProperties.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\FilterProperties.cshtml",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\FilterProperties.cshtml",
+              "RelativeToolTip": "CityBreaks\\Pages\\FilterProperties.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T18:50:49.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditProperty.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\EditProperty.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\EditProperty.cshtml",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\EditProperty.cshtml",
+              "RelativeToolTip": "CityBreaks\\Pages\\EditProperty.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T18:50:43.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditProperty.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\EditProperty.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\EditProperty.cshtml.cs",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\EditProperty.cshtml.cs",
+              "RelativeToolTip": "CityBreaks\\Pages\\EditProperty.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:50:40.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateProperty.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\CreateProperty.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\CreateProperty.cshtml",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\CreateProperty.cshtml",
+              "RelativeToolTip": "CityBreaks\\Pages\\CreateProperty.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T18:50:36.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProperty.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\CreateProperty.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks\\Pages\\CreateProperty.cshtml.cs",
+              "ToolTip": "C:\\Users\\guilherme.pirozi\\Documents\\Codigo_DR4-TP3\\TP3_CSharp2\\CityBreaks\\Pages\\CreateProperty.cshtml.cs",
+              "RelativeToolTip": "CityBreaks\\Pages\\CreateProperty.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:50:34.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

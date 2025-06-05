@@ -1,0 +1,33 @@
+﻿@page
+@model CityBreaks.Pages.IndexModel
+@{
+    ViewData["Title"] = "Cidades Turísticas";
+}
+
+<h2 class="mb-3">Cidades Turísticas</h2>
+
+@foreach (var city in Model.Cities)
+{
+    <div class="mb-4 border p-3 rounded">
+        <h4>@city.Name – <em>@city.Country.CountryName</em></h4>
+
+        @if (city.Properties?.Count > 0)
+        {
+            <ul>
+                @foreach (var prop in city.Properties)
+                {
+                    <li>
+                        <strong>@prop.Name</strong> – R$ @prop.PricePerNight
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p><em>Sem propriedades registradas.</em></p>
+        }
+
+        <a class="btn btn-primary mt-2" asp-page="/CityDetails" asp-route-name="@city.Name">Ver detalhes</a>
+       
+    </div>
+}
